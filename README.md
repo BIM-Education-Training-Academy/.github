@@ -22,7 +22,7 @@ Master the art of API development for BIM, enabling seamless integration with th
 
 ### Contact
 
-* [ricaun.com](https://www.bimeducation.in/)
+* [bimeducation.in](https://www.bimeducation.in/)
 * [Github](https://github.com/BIM-Education-Training-Academy)
 * [Instagram](https://www.instagram.com/bim_education_training_academy/)
 * [Linkedin](https://www.linkedin.com/company/b-e-training-academy)
